@@ -1,0 +1,2 @@
+hi this is text file1
+i have update the file working fine
